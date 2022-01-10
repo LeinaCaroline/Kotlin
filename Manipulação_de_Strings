@@ -1,0 +1,5 @@
+fun main() {
+    val welcome = "Olá"
+    val nome = "leina"
+    println("$welcome, ${nome.capitalize()} !")
+}
