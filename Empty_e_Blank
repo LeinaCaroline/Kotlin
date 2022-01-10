@@ -7,3 +7,5 @@ fun main() {
      //println(empty.isEmpty() && empty.isBlank())
      println(blank.isEmpty() && blank.isBlank())
 }
+
+//Checando o conteúdo de um campo com essas  funções Empyt()  e Blank()
