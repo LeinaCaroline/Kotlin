@@ -1,0 +1,14 @@
+divertido main() {
+    private fun GetFullName(name:String, lastName:String):String{ // Função original
+     val nome completo = ""$nome, $sobrenome"
+        retornar fullname
+    }
+    
+    private fun GetFullName(name:String,lastName:String):String{ // Função simplificada da função original
+        return $nome $lastName
+    }
+    
+     private fun GetFullName(name:String,lastName:String) = $name $lastName // Função mais simplificada ainda da original = )
+    
+    
+    // Formas de trtamento de funções e simplificação de funções em Kotlin
