@@ -1,0 +1,30 @@
+fun main() {
+  for(i in 0..20){
+      println("$i")
+  } 
+  
+  downTo()
+  until()
+  step((2)
+  
+ 
+  
+}
+fun downTo(){
+  for(i in 20 downTo 0){
+      println("$i")
+  }
+}
+
+fun until(){
+    for(i in 1 until 20){
+        println("$i")
+    }
+}
+//
+//
+fun step(num:Int){
+    for(i in 0..20 step num){
+       println("$i")
+    }
+}
